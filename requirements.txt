@@ -7,3 +7,12 @@ sentence-transformers
 faiss-cpu
 groq
 python-dotenv
+pandas
+numpy
+scikit-learn
+joblib
+requests
+nltk
+python-dotenv
+
+
